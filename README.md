@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-The crubrand theme depends on these other project:
+The pra-brand theme depends on these other project:
 
 * [bootstrap-scss](https://github.com/twbs/bootstrap-sass)
 * [jquery](https://github.com/jquery/jquery)
